@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leafstar
-- 👀 I’m interested in statistics and philosophy
+- 👀 I’m interested in statistics and probability
 - 🌱 I’m currently learning statistics
-- 💞️ really favour chinese arts
 - 📫 How to reach me 
   + 📧 954226839@qq.com
   + vx: wmx_felicity
