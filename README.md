@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leafstar
-- 👀 I’m interested in statistics and probability
+- 👀 I’m interested in RL
 - 🌱 I’m currently learning statistics
 - 📫 How to reach me 
   + 📧 954226839@qq.com
