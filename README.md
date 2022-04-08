@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning statistics
 - 📫 How to reach me 
   + 📧 954226839@qq.com
-  + vx: wmx_felicity
 
 <!---
 leafstar/leafstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
