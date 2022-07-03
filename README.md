@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @leafstar
-- 👀 I’m interested in RL
-- 🌱 I’m currently learning statistics
-- 📫 How to reach me 
+- Muxing Wang
+- MSc in Stats @ University of Edinburgh
   + 📧 954226839@qq.com
 
 <!---
