@@ -1,5 +1,5 @@
 - Muxing Wang
-- PhD student in Stats @ Northeastern University
+- PhD student in ECE @ Northeastern University
   + 📧 954226839@qq.com
 
 <!---
