@@ -1,5 +1,5 @@
 - Muxing Wang
-- MSc in Stats @ University of Edinburgh
+- PhD student in Stats @ Northeastern University
   + 📧 954226839@qq.com
 
 <!---
